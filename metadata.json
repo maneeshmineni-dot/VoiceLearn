@@ -1,0 +1,5 @@
+{
+  "name": "VoiceLearn - AI Voice Tutor",
+  "description": "An accessible AI-powered voice tutor for personalized learning with interactive quizzes and multi-language support.",
+  "requestFramePermissions": ["microphone"]
+}
